@@ -1,0 +1,8 @@
+git init 
+git status
+git ad index.html
+git status
+git add gitCommand.txt
+git status
+git init
+git status
